@@ -16,8 +16,12 @@ This theme takes viewers on a journey through the history of music. Each segment
 
 # Research Topics
 
-- **Boston Dynamics' Robots**:
-- **Disney's HoloTile Floor**:
-- **Alan Turing**:
-- **Microprocessors (Arduino/Pi)**:
-- **Nasa's Mars Rovers (Spirit, Opportunity, and Curiosity)**:
+- [**Boston Dynamics' Robots**](https://bostondynamics.com/): This topic is a testament to the incredible evolution of robotics. Exploring Boston Dynamics' journey from their early robots to the advanced machines like the MIT cheetah highlights the rapid advancements in this field. Their progress showcases the blend of mechanical engineering, computer science, and artificial intelligence, making it a rich subject for study.
+
+- [**Disney's HoloTile Floor**](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck): Disney's HoloTile Floor is at the forefront of immersive technology, revolutionizing virtual experiences. Its ability to allow movement while maintaining the user's position, even with multiple users, makes it an exciting topic. This innovation blends physical interaction with virtual reality, offering a new dimension to user experiences.
+
+- [**Alan Turing**](https://www.britannica.com/biography/Alan-Turing): Alan Turing's contributions go far beyond his portrayal in "The Imitation Game." His development of the Turing machine laid the groundwork for modern computing, establishing concepts that are fundamental to understanding how computers operate. His work during World War II and his vision in the field of artificial intelligence make him a pivotal figure in computer science and a compelling subject for study.
+
+- **[Microprocessors](https://computer.howstuffworks.com/microprocessor.htm)**: Investigating microprocessors offers a deep dive into the building blocks of modern computing. This research topic is vital for understanding how complex instructions are executed in the hardware that powers our digital world.
+
+- **[Nasa's Mars Rovers (Spirit, Opportunity, and Curiosity)](https://computer.howstuffworks.com/microprocessor.htm)**: Studying NASA's Mars Rovers involves more than just their popular stories; it's an exploration into the cutting-edge technology and engineering that enable these rovers to operate in harsh Martian environments. Their missions have been crucial in advancing our understanding of Mars, demonstrating the capabilities of robotic exploration, and inspiring future missions.
