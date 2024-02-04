@@ -51,8 +51,22 @@ This project is the last part in the theme of the NYUAD 4 Year cycle - The Comme
 
 ### What mechanical components will you need?
 
+- Servo motors
+- DC motors
+- Rubber belts
+- Gears
+- Pulleys
+- Speakers
+- LED's
+- Thin Metal rods/plates
+
 ### What electronic components will you need?
 
 ### Draw a block diagram showing very roughly how these components are connected. You don't need to show the circuit or specific wires, just in general what is connected to what.
 
 ### What tools or equipment or skills will you need?
+
+- Metal CNC'ing
+- Laser Cutting
+- 3d printing
+- Soldering
