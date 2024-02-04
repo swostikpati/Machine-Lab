@@ -21,13 +21,31 @@ The way the idea of the project came to my mind is when I thought about what to 
 
 ### What would it depict?
 
+This project is the last part in the theme of the NYUAD 4 Year cycle - The Commencement. It celebrates the graduation of the students from the class year.
+
 ### What materials will you use for each part?
+
+- Motors, rubber, , etc for a continuous hidden conveyer belt
+- Laser cut 2d figures as the other students
+- 1 3d printed figure of the primary student wearing the graduation attire.
+- Transparent strings to suspend the figures
 
 ### How would you animate anything moving?
 
+- The conveyer belt would be moving continuously. This would allow the movement of the person through the stage and exit.
+- We envision suspending the hats of the figures from the ceiling using transparent strings. In the end as the character exits, all the caps go up giving an illusion of them being thrown high up in the air.
+
 ### Will there be sound? What?
 
+- The sound of the name of the person being called in pitch silnce as they start walking up the stage.
+- The sound of the crowd cheering as the person walks across the stage.
+- Super upbeat music starts playing combined with cheering and the sound of caps flying across the room.
+- The music fades out as the person exits the stage.
+
 ### Will there be lights? (We have lots of NeoPixels.)
+
+- Commencement generally happens in a super well lit room in colors of white and the classic NYU purple. We can use the neopixels to mimic the same.
+- Might try for a high intensity beam of light on the person as they walk across the stage.
 
 ### Make a rough sketch, to the best of your ability.
 
