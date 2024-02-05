@@ -48,6 +48,8 @@ This project is the last part in the theme of the NYUAD 4 Year cycle - The Comme
 - Might try for a high intensity beam of light on the person as they walk across the stage.
 
 ### Make a rough sketch, to the best of your ability.
+![sketch_commencement](https://github.com/swostikpati/Machine-Lab/assets/67205637/4596eb61-7e3f-4b56-8e59-aaead4053e94)
+
 
 ### What mechanical/electronic components will you need?
 
