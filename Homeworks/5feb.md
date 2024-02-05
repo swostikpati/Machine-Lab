@@ -49,7 +49,7 @@ This project is the last part in the theme of the NYUAD 4 Year cycle - The Comme
 
 ### Make a rough sketch, to the best of your ability.
 
-### What mechanical components will you need?
+### What mechanical/electronic components will you need?
 
 - Servo motors
 - DC motors
@@ -59,8 +59,6 @@ This project is the last part in the theme of the NYUAD 4 Year cycle - The Comme
 - Speakers
 - LED's
 - Thin Metal rods/plates
-
-### What electronic components will you need?
 
 ### Draw a block diagram showing very roughly how these components are connected. You don't need to show the circuit or specific wires, just in general what is connected to what.
 
