@@ -64,6 +64,8 @@ This project is the last part in the theme of the NYUAD 4 Year cycle - The Comme
 
 ### Draw a block diagram showing very roughly how these components are connected. You don't need to show the circuit or specific wires, just in general what is connected to what.
 
+![blockdiagram_commencement](https://github.com/swostikpati/Machine-Lab/assets/67205637/4dc46003-abef-4bd4-90a8-057073d70b17)
+
 ### What tools or equipment or skills will you need?
 
 - Metal CNC'ing
