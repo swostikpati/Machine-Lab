@@ -24,6 +24,7 @@
 The most frighteneing element of this project is just initially making a wheel chassis run on a track using electromagnets. If we are to get this right, the rest of our project would be to replicate it and adjusting the power supply.
 
 ## Rough Sketch of our most frightening element
+![image](https://github.com/swostikpati/Machine-Lab/assets/67205637/85966ed4-997a-41d5-be55-035cacae617f)
 
 ## Questions
 
