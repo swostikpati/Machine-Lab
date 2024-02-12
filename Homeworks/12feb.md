@@ -1,4 +1,4 @@
-# Rollercoaster Project Documentation - Homework: 12 February
+# Rapid Prototyping Documentation
 
 https://github.com/swostikpati/Machine-Lab/assets/67205637/5eb7c825-fad2-492a-b01d-641101925ecc
 
