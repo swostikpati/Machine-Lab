@@ -1,5 +1,8 @@
 # Rollercoaster Project Documentation - Homework: 12 February
 
+https://github.com/swostikpati/Machine-Lab/assets/67205637/5eb7c825-fad2-492a-b01d-641101925ecc
+
+### Team - Dania, Sunny, and Swostik
 ## Project Overview
 
 This document outlines our progress, challenges, and future plans in building a small rollercoaster prototype. Our focus was on getting a component to move using a motor, addressing the challenges of mechanical attachment and motion control.
