@@ -31,3 +31,8 @@ This document outlines our progress, challenges, and future plans in building a 
 - **Stabilization and Motion:** Ensuring the car does not spin and investigating ways to make the car slide forward instead of backwards.
 - **Magnetic System:** Intending to add multiple magnets, after finding ways to prevent the car from sticking to unintended magnets.
 - **Electrification:** Exploring the possibility of electrifying the track to provide power to the coaster, aiming for a more efficient propulsion method.
+
+## Pictures
+![image](https://github.com/swostikpati/Machine-Lab/assets/67205637/d8e15e0e-641c-40d0-9c79-3c7e8ce87c3b)
+![image](https://github.com/swostikpati/Machine-Lab/assets/67205637/c03a0c63-1eab-4793-83db-d9db660ac2b9)
+
