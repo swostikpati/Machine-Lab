@@ -40,5 +40,4 @@ https://github.com/ss14740/MachineLab/assets/98390888/302b3d44-d53c-4e08-8718-07
 
 ## Sketches
 
-<img src="https://github.com/ss14740/MachineLab/assets/98390888/1efdec2a-6889-45d7-9670-05ebfb2eb445" alt="Alt text for image" width="200" height="200">
-<img src="https://github.com/ss14740/MachineLab/assets/98390888/5f46d4a0-befe-4afb-971e-c962c1ada97e" width="200" height="200">
+<img src="https://github.com/ss14740/MachineLab/assets/98390888/1efdec2a-6889-45d7-9670-05ebfb2eb445" alt="Alt text for image" width="300" height="300">
