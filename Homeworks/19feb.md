@@ -4,7 +4,7 @@
 
 ## Prototype
 
-![WhatsApp Image 2024-02-19 at 11 32 01](https://github.com/ss14740/MachineLab/assets/98390888/39c4e80f-7152-47c2-853b-9955c0d85f80)
+<img src="https://github.com/ss14740/MachineLab/assets/98390888/39c4e80f-7152-47c2-853b-9955c0d85f80" alt="Alt text for image" width="350" height="300">
 
 ## Electrification of Tracks
 
